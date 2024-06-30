@@ -1,3 +1,6 @@
+ghci
+
+
 :load
 :l
 
