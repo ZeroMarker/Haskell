@@ -9,3 +9,5 @@ run:
 	./$(src)
 clean:
 	rm ./$(src)
+justrun:
+	runghc $(src).$(ext)
